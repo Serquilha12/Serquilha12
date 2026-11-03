@@ -1,11 +1,11 @@
 # Hi 👋, I'm António Moreira
 
-🚀 **Dev Fullstack | Network Adminstrator**  
+🚀 **Dev Fullstack | Network Administrator**  
 
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 
-I intstall, configure and monitor **Computer Networks**
+I install, configure and monitor **Computer Networks**
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
@@ -19,7 +19,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   </a>
   <a href="https://www.instagram.com/serquilha_/?__pwa=1">
     <img src="https://img.shields.io/badge/Instagram-@Serquilha-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- 
+  </a>
 </p>
 
 ---
@@ -64,8 +64,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=serquilha12&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serquilha12&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Serquilha12&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serquilha12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -79,4 +79,3 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
