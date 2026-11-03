@@ -64,8 +64,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Serquilha12&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serquilha12&layout=compact&theme=tokyonight" />
+  <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Serquilha12&show_icons=true&theme=tokyonight" />
+  <img height="170" alt="Most-used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serquilha12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
