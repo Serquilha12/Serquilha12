@@ -1,13 +1,12 @@
 # Hi 👋, I'm António Moreira
 
-🚀 **Dev Fullstack | Network Administrator**  
+🚀 Dev Fullstack | Network Administrator
 
+I build scalable products, SaaS platforms, and high-performance web systems.
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I install, configure, and monitor computer networks, with a strong focus on reliability, performance, and security.
 
-I install, configure and monitor **Computer Networks**
-
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m passionate about architecture, clean code, system design, and business-driven solutions.
 
 ---
 
@@ -15,10 +14,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <a href="https://github.com/Serquilha12">
-    <img src="https://img.shields.io/badge/GitHub-Serquilha12-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Serquilha12-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/serquilha_/?__pwa=1">
-    <img src="https://img.shields.io/badge/Instagram-@Serquilha-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@Serquilha-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -26,12 +25,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   📊 Dashboards & analytics
-
+- 🏗️ SaaS & high-scale systems
+- ⚡ Performance optimization
+- 🧩 Clean architecture & system design
+- 🔐 Secure APIs & authentication
+- 📊 Dashboards & analytics
+- 🌐 Network planning, implementation, and monitoring
 
 ---
 
@@ -58,7 +57,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -76,10 +74,9 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> “Code is not just about solving problems. It’s about building solutions that scale, last, and generate real value.”
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ If you like my work, consider starring a repository.  
+🤝 Always open to collaborations, partnerships, and cool ideas.
